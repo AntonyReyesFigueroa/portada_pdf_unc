@@ -1,0 +1,27 @@
+
+.contendedor__general_portada{
+    /* background-color: red; */
+    width: 210mm;
+    height: 297mm;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid black; */
+}
+
+.contenedor_portada{
+    /* border: 1px solid black; */
+    width: 160mm;
+    height: 247mm;
+}
+
+.direction__portada{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+img{
+    cursor: pointer;
+}
